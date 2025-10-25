@@ -1,0 +1,4 @@
+{
+  "buildTarget": "vercel-build-output-api",
+  "dirs": ["workflows"]
+}
